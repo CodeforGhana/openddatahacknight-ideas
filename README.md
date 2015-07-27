@@ -26,5 +26,4 @@ Find a link to the issue thread near the top of the idea page. Or, you can click
 
 Just add your comment of support to the thread.
 
-How to provide feedback for an idea by creating a new issue with your feedback.
 

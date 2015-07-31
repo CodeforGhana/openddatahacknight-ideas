@@ -1,0 +1,5 @@
+[{"Region":"Accra","Fatal":234,"Serious ":529,"Slight":968,"Damage":1749,"Fatal":257,"Hosp":745,"N-Hosp":1746.00},
+{"Region":"Kumasi","Fatal":78,"Serious ":235,"Slight":188,"Damage":262,"Fatal":85,"Hosp":373,"N-Hosp":435.00},
+{"Region":"Sekondi-T'di","Fatal":16,"Serious ":26,"Slight":36,"Damage":62,"Fatal":16,"Hosp":36,"N-Hosp":66.00},
+{"Region":"Tema","Fatal":33,"Serious ":43,"Slight":56,"Damage":152,"Fatal":36,"Hosp":69,"N-Hosp":126.00},
+{"Region":"Tamale","Fatal":10,"Serious ":18,"Slight":15,"Damage":20,"Fatal":10,"Hosp":29,"N-Hosp":30.00}]
